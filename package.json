@@ -1,0 +1,30 @@
+{
+  "name": "voluptatevoluptatem",
+  "version": "1.0.0",
+  "description": "ethereum vanity address generator",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DiamondMarquardt/voluptatevoluptatem.git"
+  },
+  "keywords": [
+    "non",
+    "voluptatum",
+    "odio"
+  ],
+  "author": "LavonneParisian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DiamondMarquardt/voluptatevoluptatem.git/issues"
+  },
+  "bin": {
+    "vanityeth": "index.js"
+  },
+  "dependencies": {
+    "ethereumjs-util": "^7.0.9",
+    "hh-mm-ss": "^1.2.0",
+    "ora": "^6.0.1",
+    "yargs": "^17.2.1"
+  }
+}
